@@ -248,16 +248,16 @@ tracks:
   voice_color_names:
   - ""
 voice_parts:
-- duration: 6000
+- duration: 400
   name: Main Speech
   comment: ""
   track_no: 0
   position: 0
   notes:
   - position: 0
-    duration: 200
+    duration: 400
     tone: 60
-    lyric: zef
+    lyric: dog
     pitch:
       data:
       - {x: -40, y: 0, shape: io}
@@ -266,94 +266,5 @@ voice_parts:
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
     phoneme_expressions: []
     phoneme_overrides: []
-  curves:
-  - xs:
-    - -5
-    - 0
-    - 5
-    - 10
-    - 15
-    - 20
-    - 25
-    - 30
-    - 35
-    - 40
-    - 45
-    - 50
-    - 55
-    - 60
-    - 65
-    - 70
-    - 75
-    - 80
-    - 85
-    - 90
-    - 95
-    - 100
-    - 105
-    - 110
-    - 115
-    - 120
-    - 125
-    - 130
-    - 135
-    - 140
-    - 145
-    - 150
-    - 155
-    - 160
-    - 165
-    - 170
-    - 175
-    - 180
-    - 185
-    - 190
-    - 195
-    - 200
-    - 205
-    ys:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 100
-    - 100
-    - 100
-    - 100
-    - 100
-    - 100
-    - 100
-    - 100
-    - 100
-    - 100
-    - 200
-    - 200
-    - 200
-    - 200
-    - 200
-    - 200
-    - 200
-    - 200
-    - 200
-    - 200
-    - 300
-    - 300
-    - 300
-    - 300
-    - 300
-    - 300
-    - 300
-    - 300
-    - 300
-    - 300
-    - 300
-    - 0
-    abbr: pitd
+  curves: []
 wave_parts: []
